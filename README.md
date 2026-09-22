@@ -1,1 +1,2 @@
-# 9/15 網路診斷與容錯 System-Level Diagnosis and recent results
+- 9/15 網路診斷與容錯 System-Level Diagnosis and recent results
+- 9/22 人工智慧於醫學訊號診斷與預後評估之最新進度 From Data-Driven Insights to Clinical Translation: Advances in AI for diagnostic and Prognostic Medical Imaging
