@@ -1,3 +1,4 @@
 - 9/15 王大進教授-網路診斷與容錯 System-Level Diagnosis and recent results
 - 9/22 彭徐鈞教授-人工智慧於醫學訊號診斷與預後評估之最新進度 From Data-Driven Insights to Clinical Translation: Advances in AI for diagnostic and Prognostic Medical Imaging
 - 9/29 蕭育仁教授-微型氣體感測器產品設計與開發
+- 10/6 楊勝州博士-奈米光動能元件
